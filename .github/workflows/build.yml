@@ -34,3 +34,4 @@ jobs:
           name: redpill-DS918+_7.0.1-loader
           path: output/redpill-DS918+_7.0*.img
         
+        
